@@ -4,6 +4,7 @@ import { Paper, Step, Stepper, StepLabel, Typography, CircularProgress, Divider,
 import useStyles from './styles';
 import AdressForm from '../AdressForm';
 import PaymentForm from '../PaymentForm';
+import CustomTextField from '../CustomTextField';
 
 const steps = ['Shipping address', 'Payment details']
 
